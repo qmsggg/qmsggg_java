@@ -26,7 +26,7 @@ Java工程师修炼之道 - 梳理Java知识体系，沓实架构基础
 ### 开源库 🔧
 
 ## MY
-- [Java开发之旅]()
+- [Java开发之旅](https://github.com/qmsggg/qmsggg_java/tree/master/MyStudyRecoder)
 ## 日常关注的网站
 - [Get社区](http://get.ftqq.com/?c=default)
 
