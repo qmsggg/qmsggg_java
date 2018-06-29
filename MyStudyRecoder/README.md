@@ -18,8 +18,9 @@
 - [ArrayMap源码解析](https://github.com/qmsggg/qmsggg_BlogCollect/issues/69)
 - [Java之String源码阅读](https://github.com/qmsggg/qmsggg_BlogCollect/issues/74)
 
-# 学习路线
+# 参考资料
 - [Java工程师成神之路](https://github.com/qmsggg/qmsggg_BlogCollect/issues/32)
+- [Google 十年 Java 技术栈](https://github.com/qmsggg/qmsggg_java/issues/1)
 
 # 书籍阅读
 - [ ] [编写高质量代码：改善Java程序的151个建议](https://github.com/qmsggg/qmsggg_BlogCollect/issues/104)
