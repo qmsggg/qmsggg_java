@@ -6,7 +6,7 @@
 - [Java 异常的理解](https://github.com/qmsggg/qmsggg_BlogCollect/issues/90)
 - [ ] [注解如何获取，反射为何耗性能？](https://github.com/qmsggg/qmsggg_BlogCollect/issues/164)
 - [ ] [Java数据类型](https://github.com/qmsggg/qmsggg_BlogCollect/issues/167)
-- [ ][Java之String、StringBuffer与StringBuilder](https://github.com/qmsggg/qmsggg_BlogCollect/issues/174)
+- [ ] [Java之String、StringBuffer与StringBuilder](https://github.com/qmsggg/qmsggg_BlogCollect/issues/174)
 
 # 进阶系列
 - [ ] [深入理解Java虚拟机系列](https://github.com/qmsggg/qmsggg_BlogCollect/issues/98)
